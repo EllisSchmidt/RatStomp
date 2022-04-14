@@ -5,7 +5,7 @@
 * @authors Ellis Schmidt, Joshua Johnson, Katharine Frechette
 *
 */
-
+//I have made a change
 public class Story {
     public Title title = new Title();
     public Window window = new Window();
